@@ -3,3 +3,6 @@
 
 #Ignorar .pdf
 *.pdf
+
+#Nuevo ignore: .html
+*.html
